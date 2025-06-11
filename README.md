@@ -16,7 +16,7 @@ A full-stack application that allows users to upload PDF documents and chat with
 
 ## UI
 
-![AskMyPDF Interface](./img/ui.png)
+![AskMyPDF Interface](./img/UI.png)
 *Upload PDFs on the left, chat with your documents on the right*
 
 ## Tech Stack
